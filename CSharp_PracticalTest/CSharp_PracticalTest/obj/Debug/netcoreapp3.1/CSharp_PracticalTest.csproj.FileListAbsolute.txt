@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\CSharp_PracticalTest\CSharp_PracticalTest\bin\Debug\netcoreapp3.1\CSharp_PracticalTest.exe
+C:\Users\Admin\source\repos\CSharp_PracticalTest\CSharp_PracticalTest\bin\Debug\netcoreapp3.1\CSharp_PracticalTest.deps.json
+C:\Users\Admin\source\repos\CSharp_PracticalTest\CSharp_PracticalTest\bin\Debug\netcoreapp3.1\CSharp_PracticalTest.runtimeconfig.json
+C:\Users\Admin\source\repos\CSharp_PracticalTest\CSharp_PracticalTest\bin\Debug\netcoreapp3.1\CSharp_PracticalTest.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\CSharp_PracticalTest\CSharp_PracticalTest\bin\Debug\netcoreapp3.1\CSharp_PracticalTest.dll
+C:\Users\Admin\source\repos\CSharp_PracticalTest\CSharp_PracticalTest\bin\Debug\netcoreapp3.1\CSharp_PracticalTest.pdb
+C:\Users\Admin\source\repos\CSharp_PracticalTest\CSharp_PracticalTest\obj\Debug\netcoreapp3.1\CSharp_PracticalTest.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CSharp_PracticalTest\CSharp_PracticalTest\obj\Debug\netcoreapp3.1\CSharp_PracticalTest.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CSharp_PracticalTest\CSharp_PracticalTest\obj\Debug\netcoreapp3.1\CSharp_PracticalTest.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CSharp_PracticalTest\CSharp_PracticalTest\obj\Debug\netcoreapp3.1\CSharp_PracticalTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CSharp_PracticalTest\CSharp_PracticalTest\obj\Debug\netcoreapp3.1\CSharp_PracticalTest.dll
+C:\Users\Admin\source\repos\CSharp_PracticalTest\CSharp_PracticalTest\obj\Debug\netcoreapp3.1\CSharp_PracticalTest.pdb
+C:\Users\Admin\source\repos\CSharp_PracticalTest\CSharp_PracticalTest\obj\Debug\netcoreapp3.1\CSharp_PracticalTest.genruntimeconfig.cache
